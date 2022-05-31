@@ -1,0 +1,16 @@
+PODS:
+  - BrightFutures (8.1.0)
+
+DEPENDENCIES:
+  - BrightFutures
+
+SPEC REPOS:
+  trunk:
+    - BrightFutures
+
+SPEC CHECKSUMS:
+  BrightFutures: 6a974d08b121658dc0e6b93f5dec5353f9c24a44
+
+PODFILE CHECKSUM: baecb5f1451fb743b72713f4ab5b46d341973fa8
+
+COCOAPODS: 1.11.2
